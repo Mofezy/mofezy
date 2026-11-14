@@ -21,13 +21,6 @@ Two-node Proxmox VE cluster with Raspberry Pi QDevice quorum, dual-bridge
 networking, Tailscale subnet routing, and a segmented VLAN design behind
 OPNsense.
 
-<!--
-  Add your two existing repos here, same format:
-
-  **[repo-name](https://github.com/mofezy/repo-name)**
-  One or two lines on what it does and what was interesting about building it.
--->
-
 ---
 
 ### Working with
